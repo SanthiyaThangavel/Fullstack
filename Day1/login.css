@@ -1,0 +1,25 @@
+.box{
+    align-items:center;
+    margin-left:300px;
+    margin-top:-43%;
+    width:60%;
+    height:90%;
+    /* height:600px;
+    width: 400px;
+    border: 2px solid #0c0c0c;
+    border-radius: 8px; */
+    box-shadow: 2cm;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(108, 5, 124, 0.8);
+    padding: 2%;
+}
+.p1{
+    text-align: left;
+    text-decoration: none;
+}
+.img11{
+    margin-top: 2%;
+    margin-left: 10%;
+    width:30%;
+    height:30%;
+}
