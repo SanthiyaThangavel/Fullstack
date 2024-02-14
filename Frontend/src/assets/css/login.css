@@ -1,0 +1,33 @@
+
+.box{
+    align-items:center;
+    margin-left:55%;
+    margin-top:-30%;
+    width:30%;
+    height:70%;
+    box-shadow: 2cm;
+    overflow: hidden;
+    box-shadow: 0px 4px 8px rgba(190, 91, 4, 0.8);
+    padding: 2%;
+    border-radius:15px;
+}
+.plogin{
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+}
+.img11{
+    margin-left: 0%;
+    margin-top: 5%;
+    width:50%;
+    height:40%;
+}
+.name{
+    margin-left: 4%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    margin-left: 5%;
+}
